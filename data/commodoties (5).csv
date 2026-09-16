@@ -1,0 +1,42 @@
+commodity_id,commodity,category
+55,Bread,cereals and tubers
+64,Rice (imported),cereals and tubers
+71,Rice (local),cereals and tubers
+99,Yam,cereals and tubers
+284,Fuel (diesel),non-food
+285,Fuel (petrol-gasoline),non-food
+62,Oil (palm),oil and fats
+482,"Cassava meal (gari, yellow)",cereals and tubers
+483,Gari (white),cereals and tubers
+67,Maize (white),cereals and tubers
+136,Maize (yellow),cereals and tubers
+73,Millet,cereals and tubers
+135,Sorghum (white),cereals and tubers
+480,Cowpeas (brown),pulses and nuts
+479,Cowpeas (white),pulses and nuts
+119,Groundnuts (shelled),pulses and nuts
+481,Sorghum (brown),cereals and tubers
+592,"Rice (milled, local)",cereals and tubers
+51,Maize,cereals and tubers
+65,Sorghum,cereals and tubers
+484,Yam (Abuja),cereals and tubers
+76,Maize flour,cereals and tubers
+141,Meat (beef),"meat, fish and eggs"
+451,Meat (goat),"meat, fish and eggs"
+238,Milk (powder),milk and dairy
+96,Oil (vegetable),oil and fats
+66,Beans (white),pulses and nuts
+153,Groundnuts,pulses and nuts
+173,Onions,vegetables and fruits
+139,Fish,"meat, fish and eggs"
+78,Beans (red),pulses and nuts
+92,Eggs,"meat, fish and eggs"
+254,Bananas,vegetables and fruits
+360,Oranges,vegetables and fruits
+404,Spinach,vegetables and fruits
+716,Watermelons,vegetables and fruits
+218,Cowpeas,pulses and nuts
+114,Tomatoes,vegetables and fruits
+185,Salt,miscellaneous food
+97,Sugar,miscellaneous food
+1043,Seasoning (maggi cube),miscellaneous food
